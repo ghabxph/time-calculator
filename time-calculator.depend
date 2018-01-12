@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515736747 source:d:\dev\non-www\time-calculator\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
